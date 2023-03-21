@@ -10,7 +10,7 @@
     "dev": "DOCS_HOSTNAME=docs.dev.chainstack.com vuepress dev docs"
   },
   "devDependencies": {
-    "markdown-it-container": "^2.0.0",
+    "markdown-it-container": "^3.0.0",
     "vuepress": "^1.9.2",
     "vuepress-plugin-check-md": "0.0.2"
   },
